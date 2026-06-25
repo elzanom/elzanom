@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00F0FF&height=220&section=header&text=elzanom&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=autonomous%20systems%20engineer&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" alt="header"/>
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=%3E%20hi%2C%20I%27m%20elzanom;%3E%20I%20make%20AI%20agents%20that%20trade%20crypto%20%26%20forex;%3E%20let%20the%20machines%20work%2C%20while%20you%20build%20the%20future" alt="Typing SVG"/>
@@ -30,6 +32,8 @@ builds:
 mode: learn_by_doing
 ```
 
+<p align="center">🔭 Currently building: <a href="https://github.com/elzanom/vipere"><b>vipere</b></a> · <a href="https://github.com/elzanom/Aurex"><b>Aurex</b></a> · <a href="https://github.com/elzanom/trench-sol"><b>trench-sol</b></a></p>
+
 ---
 
 ### 🧬 Tech Stack
@@ -42,12 +46,16 @@ mode: learn_by_doing
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,ts,js,git,linux,docker,vscode&theme=light&perline=8" alt="Skill Icons"/>
+</p>
+
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elzanom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F0FF&text_color=FFFFFF&border_radius=8" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elzanom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F0FF&text_color=FFFFFF&border_radius=8&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzanom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&layout=compact&border_radius=8" alt="Top Languages"/>
 </p>
 
@@ -65,6 +73,14 @@ mode: learn_by_doing
 
 ---
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elzanom&bg_color=0D1117&color=39FF14&line=00F0FF&point=FF00E5&hide_border=true&area=true&area_color=39FF14" width="95%" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -76,6 +92,14 @@ mode: learn_by_doing
 </p>
 
 <sub align="center"><i>Auto-generated daily by GitHub Actions · appears within ~10-60 min after first run</i></sub>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=39FF14&bg_color=0D1117" alt="Random Dev Quote"/>
+</p>
 
 ---
 
