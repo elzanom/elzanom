@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E%20Initializing%20secure%20session...;%3E%20Deploying%20LLM-powered%20agents...;%3E%20Hunting%20alpha%20on%20Solana." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=%3E%20hi%2C%20I%27m%20elzanom;%3E%20I%20make%20AI%20agents%20that%20trade%20crypto%20%26%20forex;%3E%20let%20the%20machines%20work%2C%20while%20you%20build%20the%20future" alt="Typing SVG"/>
 
   <br/>
 
