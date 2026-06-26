@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=%3E%20hi%2C%20I%27m%20elzanom;%3E%20I%20make%20AI%20agents%20that%20trade%20crypto%20%26%20forex;%3E%20let%20the%20machines%20work%2C%20while%20you%20build%20the%20future" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=%3E%20hi%2C%20I%27m%20elzanom%7Ccolor%3A39FF14;%3E%20I%20make%20AI%20agents%20that%20trade%20crypto%20%26%20forex%7Ccolor%3A00F0FF;%3E%20let%20the%20machines%20work%2C%20while%20you%20build%20the%20future%7Ccolor%3AFF00E5" alt="Typing SVG"/>
 
   <br/>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
----
+<p align="center"><code>▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░</code></p>
 
 ### `> whoami`
 
@@ -32,9 +32,11 @@ builds:
 mode: learn_by_doing
 ```
 
+<p align="center"><code>> now: building &amp; learning in public · mostly TypeScript + Python</code></p>
+
 <p align="center">🔭 Currently building: <a href="https://github.com/elzanom/vipere"><b>vipere</b></a> · <a href="https://github.com/elzanom/Aurex"><b>Aurex</b></a> · <a href="https://github.com/elzanom/trench-sol"><b>trench-sol</b></a></p>
 
----
+<p align="center"><code>▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░</code></p>
 
 ### 🧬 Tech Stack
 
@@ -50,7 +52,15 @@ mode: learn_by_doing
   <img src="https://skillicons.dev/icons?i=nodejs,python,ts,js,git,linux,docker,vscode&theme=light&perline=8" alt="Skill Icons"/>
 </p>
 
----
+<p align="center">
+  🤖 <img src="https://img.shields.io/badge/AI_Engineer-FF00E5?style=flat-square" alt="AI Engineer"/>
+  🌐 <img src="https://img.shields.io/badge/Open_Source-39FF14?style=flat-square" alt="Open Source"/>
+  💎 <img src="https://img.shields.io/badge/Solana_Builder-9945FF?style=flat-square" alt="Solana Builder"/>
+  ⚡ <img src="https://img.shields.io/badge/Production_Grade-00F0FF?style=flat-square" alt="Production Grade"/>
+  🔥 <img src="https://img.shields.io/badge/Forex_Algo-FF6B35?style=flat-square" alt="Forex Algo"/>
+</p>
+
+<p align="center"><code>▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░</code></p>
 
 ### 📊 GitHub Analytics
 
@@ -61,9 +71,14 @@ mode: learn_by_doing
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=elzanom&theme=dark&hide_border=true&background=0D1117&stroke=39FF14&ring=00F0FF&fire=FF00E5&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elzanom&theme=tokyonight&hide_border=true" alt="Productive Time"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elzanom&theme=tokyonight&hide_border=true" alt="Repos per Language"/>
+</p>
+
+<p align="center"><code>▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░</code></p>
 
 ### 🏆 GitHub Trophies
 
@@ -71,15 +86,15 @@ mode: learn_by_doing
   <img src="https://github-profile-trophy.vercel.app/?username=elzanom&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
 </p>
 
----
+<p align="center"><code>▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░</code></p>
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elzanom&bg_color=0D1117&color=39FF14&line=00F0FF&point=FF00E5&hide_border=true&area=true&area_color=39FF14" width="95%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elzanom&theme=dracula&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph"/>
 </p>
 
----
+<p align="center"><code>▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░</code></p>
 
 ### 🐍 Contribution Snake
 
@@ -93,7 +108,7 @@ mode: learn_by_doing
 
 <sub align="center"><i>Auto-generated daily by GitHub Actions · appears within ~10-60 min after first run</i></sub>
 
----
+<p align="center"><code>▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░</code></p>
 
 ### 💬 Random Dev Quote
 
@@ -101,7 +116,7 @@ mode: learn_by_doing
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=39FF14&bg_color=0D1117" alt="Random Dev Quote"/>
 </p>
 
----
+<p align="center"><code>▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░</code></p>
 
 ### 📡 Connect
 
